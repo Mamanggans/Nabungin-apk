@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MPChartExample/MPChartExample.iml" filepath="$PROJECT_DIR$/MPChartExample/MPChartExample.iml" group="the_savings/MPChartExample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mpchartlib/MPChartLib.iml" filepath="$PROJECT_DIR$/.idea/modules/mpchartlib/MPChartLib.iml" group="the_savings/MPChartLib" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="the_savings/app" />
+      <module fileurl="file://$PROJECT_DIR$/mpchartlib/mpchartlib.iml" filepath="$PROJECT_DIR$/mpchartlib/mpchartlib.iml" group="the_savings/mpchartlib" />
+      <module fileurl="file://$PROJECT_DIR$/the_savings.iml" filepath="$PROJECT_DIR$/the_savings.iml" group="the_savings" />
+    </modules>
+  </component>
+</project>
